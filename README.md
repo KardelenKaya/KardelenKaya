@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, welcome to my Github page<br> I'm a passionate software engineer from Türkiye who wants to work in AI and Data Science<br> I’m currently working on Machine Learning <br> I’m now learning Python<br> Veni Vidi Vici
+ Hi, welcome to my Github page<br> I'm a passionate software engineer from Türkiye who wants to work in AI and Data Science<br> I’m currently working on Machine Learning <br> I’m now learning Python<br> Veni Vidi Vici<br><br> You can contact me :<br>  Linkedın: https://www.linkedin.com/in/KardelenKaya/<br> 
 
 
 # 💻 Tech Stack:
@@ -9,6 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KardelenKaya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KardelenKaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
